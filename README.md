@@ -8,7 +8,7 @@ There will be future features in this app.
 
 ## Available Scripts
 
-In the project react-redux-typescript directory, you can run: 
+To run the project go to react-redux-typescript directory and write the commands. 
 
 ### `npm install` 
 
