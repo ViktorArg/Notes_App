@@ -20,3 +20,13 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
+
+
+
+To get database notes from the console, write the commant:
+
+curl http://localhost:4000/notes/new
+
+To post notes into database from the console, write the commant:
+
+curl --header "Content-Type: application/json" --request POST --data '{"text": "Hello express js with lowdb"}'  http://localhost:4000/notes/new
