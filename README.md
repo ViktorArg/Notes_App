@@ -23,6 +23,8 @@ The page will reload if you make edits.\
 
 
 
+## Server
+
 To get database notes from the console, write the commant:
 
 curl http://localhost:4000/notes/new
